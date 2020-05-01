@@ -1,0 +1,25 @@
+{
+    "name": "bortik/example",
+    "description": "my fist example package PHP",
+    "license": "GPL-3.0-only",
+    "authors": [
+        {
+            "name": "Vitalii",
+            "email": "beekeepervitaliy@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2",
+        "exe-json": "*"
+    },
+
+    "require-dev": {
+        "phpunit/phpunit": "9.1.4"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "bortik\\test\\example\\": "src"
+        }
+    }
+}
