@@ -2,6 +2,7 @@
     "name": "beekeepervs/example",
     "description": "my fist example package PHP",
     "license": "GPL-3.0-only",
+    "version": "1.0.05",
     "authors": [
         {
             "name": "Vitalii",
