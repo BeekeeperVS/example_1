@@ -1,7 +1,7 @@
 <?php
 
 //use src\Hello;
-use bortik\test\example\Hello;
+use beekeeperVS\example\Hello;
 require __DIR__  ."/vendor/autoload.php";
 
 new Hello();

@@ -1,5 +1,5 @@
 <?php
-namespace bortik\test\example;
+namespace beekeeperVS\example;
 
 
 class Hello
