@@ -9,8 +9,7 @@
         }
     ],
     "require": {
-        "php": ">=7.2",
-        "exe-json": "*"
+        "php": "^7.2"
     },
 
     "require-dev": {
