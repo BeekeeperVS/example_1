@@ -1,5 +1,5 @@
 {
-    "name": "beekeeperVS/example",
+    "name": "beekeepervs/example",
     "description": "my fist example package PHP",
     "license": "GPL-3.0-only",
     "authors": [
@@ -19,7 +19,7 @@
 
     "autoload": {
         "psr-4": {
-            "beekeeperVS\\example\\": "src"
+            "beekeepervs\\example\\": "src"
         }
     }
 }

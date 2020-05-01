@@ -1,5 +1,5 @@
 <?php
-namespace beekeeperVS\example;
+namespace beekeepervs\example;
 
 
 class Hello

@@ -1,7 +1,7 @@
 <?php
 
 //use src\Hello;
-use beekeeperVS\example\Hello;
+use beekeepervs\example\Hello;
 require __DIR__  ."/vendor/autoload.php";
 
 new Hello();
